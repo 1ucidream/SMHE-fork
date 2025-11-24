@@ -9,8 +9,7 @@
 #define HEAAN_TIMEUTILS_H_
 
 #include <iostream>
-
-struct timeval;
+#include <sys/time.h>
 
 using namespace std;
 
